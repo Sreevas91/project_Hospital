@@ -1,0 +1,83 @@
+*{
+    margin:0;
+padding:0;
+}
+.header{
+height:100vh;
+}
+
+.navbar-style{
+box-shadow:0 5px 10px #efefef;
+text-transform:uppercase;
+
+}
+
+.logo{
+height:80px;
+padding:2px 10px;
+}
+.icon-bar{
+background:darkblue;
+}
+li a{
+color:#333;
+}
+
+.big-text{
+font-size:52px;
+margin:20px 0;
+color:darkorange;
+}
+.logins{
+font-size:25px;
+background:darkgreen;
+color:white;
+}
+a.btn{
+margin:30px 10px;
+width:150px;
+padding:10px;
+border-radius:20px;
+}
+
+a.btn-first{
+background-color:#2980B9;
+color:#fff;
+}
+a.btn-second{
+background-color:#2980B9;
+color:#fff;
+}
+
+a.btn-third{
+background-color:#2980B9;
+color:#fff;
+}
+a.btn:hover{
+background:#2980B9;
+border:none;
+color:#fff;
+box-shadow:5px 5px 10px #999;
+transition:0.3s;
+}
+
+.banner-info,.banner-image{
+margin:30px 0;
+}
+.socialmedia{
+text-align:center;
+}
+.footer{
+background-color:#34495E;
+height:10vh;
+color:white;
+}
+.twitter{
+width:30px;
+height:auto;
+}
+.insta{
+width:50px
+height:30px;
+}
+
